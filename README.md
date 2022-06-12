@@ -10,7 +10,7 @@ Grab job data of Data Analysts from 104 Job Bank, and analyze by Power BI.
 ### 1.優化爬蟲資料的乾淨程度，以及爬蟲速度
 ### 2.增加更多職缺相關訊息，如工作內容、需求人數、管理職責等
 ### 3.增加工作內容關鍵字文字雲分析
-
+### 注意:檔案路徑可能會需要修改
 # 使用技術: Python、Power BI
 
 # 實際執行:
